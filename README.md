@@ -28,7 +28,7 @@ Convocatoria extraordinaria:
 * [Indicaciones a la primera entrega]()
 * [Indicaciones a la segunda entrega]()
 
-## ✅ Indicaciones sobre el checkpoint del 14 de mayo del 2021
+## ✅ Indicaciones sobre el checkpoint del viernes 13 de mayo del 2022
 * [Indicaciones sobre el checkpoint]()
 
 ## 🗓️ Calendario fin de curso
