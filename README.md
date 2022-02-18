@@ -18,7 +18,7 @@ Cada alumno debe añadir su **apellido** y **nombre** por **orden alfabético** 
 Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar el orden de lista.
 
 * Apellidos, Nombre - [Título]() - Plataforma (Ionic/Android)
-* De Abrisqueta Rangel, Ander - [CoordinatorHarenaApp](https://github.com/AnderDeAbrisqueta/coordinator-harena-app)
+* De Abrisqueta Rangel, Ander - [CoordinatorHarenaApp](https://github.com/AnderDeAbrisqueta/coordinator-harena-app) - Ionic
 * López Pérez, Cruz - [ClinicaNiloFinalApp](https://github.com/mcruzlp/ClinicaNiloFinalApp.git) - Ionic
 * Rodríguez - Barbero Verdera, David [Matters](https://github.com/Davidrbv/Matters) - Ionic
 ----------------------------------
