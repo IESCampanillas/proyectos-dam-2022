@@ -19,6 +19,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 
 * Apellidos, Nombre - [Título]() - Plataforma (Ionic/Android)
 * De Abrisqueta Rangel, Ander - [CoordinatorHarenaApp](https://github.com/AnderDeAbrisqueta/coordinator-harena-app) - Ionic
+* Gutierrez Ramirez, Jesús - [GymFit]() - Ionic
 * López Pérez, Cruz - [ClinicaNiloFinalApp](https://github.com/mcruzlp/ClinicaNiloFinalApp.git) - Ionic
 * Rodríguez - Barbero Verdera, David [Matters](https://github.com/Davidrbv/Matters) - Ionic
 ----------------------------------
