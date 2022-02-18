@@ -19,6 +19,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 
 * Apellidos, Nombre - [Título]() - Plataforma (Ionic/Android)
 * Alvarado Díaz, Irene - ionic
+* Buendía López, Jairo - Android
 * De Abrisqueta Rangel, Ander - [CoordinatorHarenaApp](https://github.com/AnderDeAbrisqueta/coordinator-harena-app) - Ionic
 * Millón Cortés, Manuel Alejandro- [SCA] - Ionic
 * Gutierrez Ramirez, Jesús - [GymFit]() - Ionic
@@ -26,7 +27,6 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Rodríguez Barbero Verdera, David - [Matters](https://github.com/Davidrbv/Matters) - Ionic
 * Fabián El Belaizi, Daniel - []() - Ionic
 * Salmerón Robles, Gonzalo José - Android
-* Buendía López, Jairo - Android
 ----------------------------------
 Convocatoria extraordinaria:
 * González Mora, Miguel - [OptiManager 2.0](https://github.com/Miguelgm1693/Proyecto-OptiManager-2.0) (Ionic)
