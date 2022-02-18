@@ -24,19 +24,14 @@ Convocatoria extraordinaria:
 * González Mora, Miguel - [OptiManager 2.0](https://github.com/Miguelgm1693/Proyecto-OptiManager-2.0) (Ionic)
 * Zollner Zardi, Henrique - [Genie](https://github.com/henrique2Zs/Genie) (Ionic)
 
-## 📝 Indicaciones anteproyectos
-* [Indicaciones a la primera entrega]()
-* [Indicaciones a la segunda entrega]()
-
-## ✅ Indicaciones sobre el checkpoint del viernes 13 de mayo del 2022
-* [Indicaciones sobre el checkpoint]()
-
-## 🗓️ Calendario fin de curso
-* [Acceso al calendario fin de curso](https://docs.google.com/document/d/1YUECtVGsCXCObxw-qq7QhTZ2DDvsi0_Wk2amDv5ReCw/edit)
+## 🗓️ Fechas a tener en cuenta
+* Anteproyecto: lunes 4 de abril
+* Revisión (checkpoint): viernes 13 de mayo
+* Exposiciones: martes 21 de junio de 2021
 
 ## ⏰ Cuadrante horario de las exposiciones
 
-El día de las exposiciones será el **martes 21 de junio de 2021**. La duración de cada exposición será de 10 minutos (5 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Se deberá llegar unos 5 minutos antes del inicio de la presentación. Aquellos alumnos que aún no hayan finalizado su FCT, asistirán al centro únicamente para la exposición, debiendo regresar posteriormente a sus prácticas en la empresa.
+La duración de cada exposición será de 10 minutos (5 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Se deberá llegar unos 5 minutos antes del inicio de la presentación. Aquellos alumnos que aún no hayan finalizado su FCT, asistirán al centro únicamente para la exposición, debiendo regresar posteriormente a sus prácticas en la empresa.
 
 * 09:00h Apellidos, Nombre
 * 09:15h 
