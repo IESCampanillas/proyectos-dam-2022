@@ -10,26 +10,14 @@ Tanto los criterios generales como los criterios particulares por cada módulo s
 
 A continuación se listan los enlaces a los repositorios de GitHub donde están los proyectos. 
 
-Cada alumno debe añadir su **apellido** y **nombre** por **orden alfabético** junto con el **título del proyecto**, seguido del **título del proyecto** y un enlace directo al repositorio (no a la página de Github del alumno). También se debe indicar si la aplicación está hecha en **Ionic** o es **Android nativo**. Recuerda que, como máximo, podrá haber **6** proyectos de Ionic y **6** proyectos de Android; en otro caso, se desempatará por la fecha del último commit. Actualmente hay:
+Cada alumno debe añadir su **apellido** y **nombre** por **orden alfabético** junto con el **título del proyecto**, seguido del **título del proyecto** y un enlace directo al repositorio (no a la página de Github del alumno). También se debe indicar si la aplicación está hecha en **Ionic** o es **Android nativo**. Recuerda que, como máximo, podrá haber **8** proyectos de Ionic y **8** proyectos de Android; en otro caso, se desempatará por la fecha del último commit. Actualmente hay:
 
-- **0** Proyectos Ionic disponibles.
-- **0** Proyectos Android disponibles.
+- **8** Proyectos Ionic disponibles.
+- **8** Proyectos Android disponibles.
 
 Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar el orden de lista.
 
-* Cano Santana, Miguel - [ChatPools](https://github.com/miguelcanosantana/ChatPools) (Ionic)
-* Gallardo Luque, Víctor  - [I-Train](https://github.com/VictorGallardo/I-Train) (Ionic)
-* Gutiérrez Pardo, Miguel Valerio - [WhereIWatch](https://github.com/BeTheVal/WhereIWatch) (Android nativo)
-* Lago Muñoz, Luca - [CA Map](https://github.com/ROMthesheep/CA-Map) (Android nativo)
-* López Ramos, Rodrigo - [Organiceitor](https://github.com/rodrigolopezramoss/ProyectoFinCiclo-Organiceitor) (Android nativo)
-* López Sánchez, Javier - [WorkOutTracker](https://github.com/javier-l0pez/WorkOutTracker) (Android Nativo)
-* Martínez Alaminos, Diego - [SkillYouNeed](https://github.com/diegomartinezalaminos/SkillYouNeed) (Android nativo)
-* Molina Blanes, Pablo Luis - [RadioPlatform](https://github.com/PabloLuisMolinaBlanes/RadioPlatform) (Ionic)
-* Pacheco Torrecilla, Ismael - [Macros Counter](https://github.com/ismaelpacheco13/macros-counter-ionic-final) (Ionic)
-* Santos Bernal, Clemente - [HomeLive](https://github.com/damcsb/HomeLive) (Android nativo)
-* Santiago Yuste, Rubén - [PPLI NEWS](https://github.com/RSY96/PPLI-NEWS) (Android Nativo)
-* Torres de Oses, Ivan - [LanguagEz](https://github.com/IvanTorres21/LanguagEz) (Ionic)
-* Toscano Díaz, Sergio - [Filmaser](https://github.com/sergiotoscanodiaz/Filmaser) (Ionic)
+* Apellidos, Nombre - [Título]() - Plataforma (Ionic/Android)
 
 ----------------------------------
 * González Mora, Miguel - [OptiManager 2.0](https://github.com/Miguelgm1693/Proyecto-OptiManager-2.0) (Ionic)
