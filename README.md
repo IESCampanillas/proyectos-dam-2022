@@ -36,17 +36,17 @@ Convocatoria extraordinaria:
 
 ## ⏰ Cuadrante horario de las exposiciones
 
-El día de las exposiciones será el **lunes 21 de junio de 2021**. La duración de cada exposición será de 10 minutos (5 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Se deberá llegar unos 5 minutos antes del inicio de la presentación. Aquellos alumnos que aún no hayan finalizado su FCT, asistirán al centro únicamente para la exposición, debiendo regresar posteriormente a sus prácticas en la empresa.
+El día de las exposiciones será el **martes 21 de junio de 2021**. La duración de cada exposición será de 10 minutos (5 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Se deberá llegar unos 5 minutos antes del inicio de la presentación. Aquellos alumnos que aún no hayan finalizado su FCT, asistirán al centro únicamente para la exposición, debiendo regresar posteriormente a sus prácticas en la empresa.
 
-* ~~09:00h Cano Santana, Miguel~~
-* ~~09:15h Gallardo Luque, Víctor~~
-* ~~09:30h Gutiérrez Pardo, Miguel Valerio~~
-* ~~09:45h Lago Muñoz, Luca~~
-* ~~10:00h López Ramos, Rodrigo~~
-* ~~10:15h López Sánchez, Javier~~
-* ~~10:30h Martínez Alaminos, Diego~~
-* ~~10:45h Molina Blanes, Pablo Luis~~
-* ~~11:00h Pacheco Torrecilla, Ismael~~
+* 09:00h Apellidos, Nombre
+* 09:15h 
+* 09:30h 
+* 09:45h 
+* 10:00h 
+* 10:15h 
+* 10:30h 
+* 10:45h 
+* 11:00h 
 
  🥪 D E S C A N S O ☕
 
