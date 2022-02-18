@@ -18,7 +18,7 @@ Cada alumno debe añadir su **apellido** y **nombre** por **orden alfabético** 
 Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar el orden de lista.
 
 * Apellidos, Nombre - [Título]() - Plataforma (Ionic/Android)
-* Alvarado Díaz, Irene - ionic
+* Alvarado Díaz, Irene - [CuidaAMiMascota](https://github.com/IreneAlvaradoDiaz/cuida-a-mi-mascota.git) - ionic
 * De Abrisqueta Rangel, Ander - [CoordinatorHarenaApp](https://github.com/AnderDeAbrisqueta/coordinator-harena-app) - Ionic
 * Millón Cortés, Manuel Alejandro- [SCA] - Ionic
 * Gutierrez Ramirez, Jesús - [GymFit]() - Ionic
