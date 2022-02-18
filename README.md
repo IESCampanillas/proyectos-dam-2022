@@ -20,15 +20,16 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Apellidos, Nombre - [Título]() - Plataforma (Ionic/Android)
 
 ----------------------------------
+Convocatoria extraordinaria:
 * González Mora, Miguel - [OptiManager 2.0](https://github.com/Miguelgm1693/Proyecto-OptiManager-2.0) (Ionic)
 * Zollner Zardi, Henrique - [Genie](https://github.com/henrique2Zs/Genie) (Ionic)
 
 ## 📝 Indicaciones anteproyectos
-* [Indicaciones a la primera entrega](https://docs.google.com/document/d/12efLNqLAXuKp9zxm_fMtWnbXIhDRQ0tWEHac8LWHk1Q/edit?usp=sharing)
-* [Indicaciones a la segunda entrega](https://docs.google.com/document/d/1O-3Z-LAqq3eDTv1ZBYK8cg8jUiU9oVgSk0qhk9WsNP0/edit?usp=sharing)
+* [Indicaciones a la primera entrega]()
+* [Indicaciones a la segunda entrega]()
 
 ## ✅ Indicaciones sobre el checkpoint del 14 de mayo del 2021
-* [Indicaciones sobre el checkpoint](https://docs.google.com/document/d/1BC-frabzdw1o3YSmTkbQCTr-HbWNbJPfyVScXRbB7LQ/edit)
+* [Indicaciones sobre el checkpoint]()
 
 ## 🗓️ Calendario fin de curso
 * [Acceso al calendario fin de curso](https://docs.google.com/document/d/1YUECtVGsCXCObxw-qq7QhTZ2DDvsi0_Wk2amDv5ReCw/edit)
