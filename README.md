@@ -24,6 +24,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * López Pérez, Cruz - [ClinicaNiloFinalApp](https://github.com/mcruzlp/ClinicaNiloFinalApp.git) - Ionic
 * Rodríguez Barbero Verdera, David - [Matters](https://github.com/Davidrbv/Matters) - Ionic
 * Fabián El Belaizi, Daniel - []() - Ionic
+* Salmerón Robles, Gonzalo José - Android
 ----------------------------------
 Convocatoria extraordinaria:
 * González Mora, Miguel - [OptiManager 2.0](https://github.com/Miguelgm1693/Proyecto-OptiManager-2.0) (Ionic)
