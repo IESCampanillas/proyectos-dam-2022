@@ -1,6 +1,6 @@
 # Proyectos DAM 2022
 
-En este repositorio se encuentra centralizada toda la información relativa a los **Proyectos de Desarrollo de Aplicaciones Multiplataforma del IES Campanillas** (proyectos de fin de ciclo), en la convocatoria del año 2021.
+En este repositorio se encuentra centralizada toda la información relativa a los **Proyectos de Desarrollo de Aplicaciones Multiplataforma del IES Campanillas** (proyectos de fin de ciclo), en la convocatoria del año 2022.
 
 ## Requisitos y criterios a seguir
 
