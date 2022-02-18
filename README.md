@@ -18,13 +18,15 @@ Cada alumno debe añadir su **apellido** y **nombre** por **orden alfabético** 
 Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar el orden de lista.
 
 * Apellidos, Nombre - [Título]() - Plataforma (Ionic/Android)
-* Alvarado Díaz, Irene - [CuidaAMiMascota](https://github.com/IreneAlvaradoDiaz/cuida-a-mi-mascota.git) - ionic
+* Alvarado Díaz, Irene - ionic
 * De Abrisqueta Rangel, Ander - [CoordinatorHarenaApp](https://github.com/AnderDeAbrisqueta/coordinator-harena-app) - Ionic
+* Millón Cortés, Manuel Alejandro- [SCA] - Ionic
 * Gutierrez Ramirez, Jesús - [GymFit]() - Ionic
 * López Pérez, Cruz - [ClinicaNiloFinalApp](https://github.com/mcruzlp/ClinicaNiloFinalApp.git) - Ionic
 * Rodríguez Barbero Verdera, David - [Matters](https://github.com/Davidrbv/Matters) - Ionic
 * Fabián El Belaizi, Daniel - []() - Ionic
 * Salmerón Robles, Gonzalo José - Android
+* 
 ----------------------------------
 Convocatoria extraordinaria:
 * González Mora, Miguel - [OptiManager 2.0](https://github.com/Miguelgm1693/Proyecto-OptiManager-2.0) (Ionic)
