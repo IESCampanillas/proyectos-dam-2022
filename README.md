@@ -25,7 +25,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Gutierrez Ramirez, Jesús - [GymFit](https://github.com/Jesus-GR/AplicacionIonic)- Ionic
 * López Pérez, Cruz - [ClinicaNiloFinalApp](https://github.com/mcruzlp/ClinicaNiloFinalApp.git) - Ionic
 * Rodríguez Barbero Verdera, David - [Matters](https://github.com/Davidrbv/Matters) - Ionic
-* Sevilla Valderrama Fernando - Invisible Friend
+* Sevilla Valderrama Fernando - Invisible Friend Ionic
 * Fabián El Belaizi, Daniel - []() - Ionic
 * Salmerón Robles, Gonzalo José - Android
 ----------------------------------
