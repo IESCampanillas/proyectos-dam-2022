@@ -23,6 +23,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * De Abrisqueta Rangel, Ander - [CoordinatorHarenaApp](https://github.com/AnderDeAbrisqueta/coordinator-harena-app) - Ionic
 * Millón Cortés, Manuel Alejandro- [SCA] - Ionic
 * Gutierrez Ramirez, Jesús - [GymFit](https://github.com/Jesus-GR/AplicacionIonic)- Ionic
+* López Lozano, Santos - Android
 * López Pérez, Cruz - [ClinicaNiloFinalApp](https://github.com/mcruzlp/ClinicaNiloFinalApp.git) - Ionic
 * Rodríguez Barbero Verdera, David - [Matters](https://github.com/Davidrbv/Matters) - Ionic
 * Sevilla Valderrama Fernando - Invisible Friend Ionic
