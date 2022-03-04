@@ -26,7 +26,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * López Lozano, Santos - Android
 * López Pérez, Cruz - [ClinicaNiloFinalApp](https://github.com/mcruzlp/ClinicaNiloFinalApp.git) - Ionic
 * Rodríguez Barbero Verdera, David - [Matters](https://github.com/Davidrbv/Matters) - Ionic
-* Sevilla Valderrama Fernando - Invisible Friend Ionic
+* Sevilla Valderrama Fernando - [Invisible Friend](https://github.com/FESEVA/ionic-invisibleFriend) - Ionic
 * Fabián El Belaizi, Daniel - []() - Ionic
 * Salmerón Robles, Gonzalo José - Android
 ----------------------------------
