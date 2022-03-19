@@ -20,7 +20,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Apellidos, Nombre - [Título]() - Plataforma (Ionic/Android)
 * Alvarado Díaz, Irene - ionic
 * Buendía López, Jairo - Android
-* De Abrisqueta Rangel, Ander - [CoordinatorHarenaApp](https://github.com/AnderDeAbrisqueta/coordinator-harena-app) - Ionic
+* De Abrisqueta Rangel, Ander - [HarenaProjectApp](https://github.com/AnderDeAbrisqueta/HarenaProjectApp) - Ionic
 * Millón Cortés, Manuel Alejandro- [SCA] - Ionic
 * Gutierrez Ramirez, Jesús - [GymFit](https://github.com/Jesus-GR/AplicacionIonic)- Ionic
 * López Lozano, Santos - Android
