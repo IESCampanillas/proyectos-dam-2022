@@ -17,7 +17,6 @@ Cada alumno debe añadir su **apellido** y **nombre** por **orden alfabético** 
 
 Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar el orden de lista.
 
-* Apellidos, Nombre - [Título]() - Plataforma (Ionic/Android)
 * Alvarado Díaz, Irene - ionic
 * Buendía López, Jairo - Android
 * De Abrisqueta Rangel, Ander - [HarenaProjectApp](https://github.com/AnderDeAbrisqueta/HarenaProjectApp) - Ionic
