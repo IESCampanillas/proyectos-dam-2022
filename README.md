@@ -28,7 +28,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Rosales Girón, José Antonio - [MyEntertainmentList](https://github.com/joseantoniorosales/MyEntertainmentList) - Android
 * Sevilla Valderrama Fernando - [Invisible Friend](https://github.com/FESEVA/ionic-invisibleFriend) - Ionic && Android
 * Torres Barba, Pedro - [Bravekey](https://github.com/torrespedrob/BraveKey-Android) - Android
-* Fabián El Belaizi, Daniel - []() - Ionic
+* Fabián El Belaizi, Daniel - [Task Manager](https://github.com/Danny-06/proyecto-integrado) - Ionic
 * Salmerón Robles, Gonzalo José - Android
 ----------------------------------
 Convocatoria extraordinaria:
@@ -67,7 +67,9 @@ Las presentaciones tendrán lugar en el **salón de actos** de la [**Incubadora*
 
 Mapa ubicación             | 
 :-------------------------:|
-<a href="https://goo.gl/maps/VGMpWnnpCZJQbP21A" target="_blank"><img src="https://github.com/IESCampanillas/proyectos-dam-2021/blob/master/IESCFP_mapa_ubicacion.png" width="300" /></a> 
+<a href="https://goo.gl/maps/VGMpWnnpCZJQbP21A" target="_blank">
+  <img src="https://github.com/IESCampanillas/proyectos-dam-2021/blob/master/IESCFP_mapa_ubicacion.png" width="300" />
+</a>
 
 
 
