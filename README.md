@@ -26,7 +26,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * López Pérez, Cruz - [ClinicaNiloFinalApp](https://github.com/mcruzlp/ClinicaNiloFinalApp.git) - Ionic
 * Rodríguez Barbero Verdera, David - [Matters](https://github.com/Davidrbv/Matters) - Ionic
 * Rosales Girón, José Antonio - [MyEntertainmentList](https://github.com/joseantoniorosales/MyEntertainmentList) - Android
-* Sevilla Valderrama Fernando - [Invisible Friend](https://github.com/FESEVA/ionic-invisibleFriend) - Ionic && Android
+* Sevilla Valderrama Fernando - [Invisible Friend](https://github.com/FESEVA/invisibleFriend-project) - Ionic && Android
 * Torres Barba, Pedro - [Bravekey](https://github.com/torrespedrob/BraveKey-Android) - Android
 * Fabián El Belaizi, Daniel - [Task Manager](https://github.com/Danny-06/proyecto-integrado) - Ionic
 * Salmerón Robles, Gonzalo José - Android
