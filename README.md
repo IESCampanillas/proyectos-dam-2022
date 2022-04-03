@@ -13,13 +13,14 @@ A continuación se listan los enlaces a los repositorios de GitHub donde están 
 Cada alumno debe añadir su **apellido** y **nombre** por **orden alfabético** junto con el **título del proyecto**, seguido de un **enlace directo al repositorio** (no a la página de Github del alumno). También se debe indicar si la aplicación está hecha en **Ionic** o es **Android nativo**. Recuerda que, como máximo, podrá haber **8** proyectos de Ionic y **8** proyectos de Android; en otro caso, se desempatará por la fecha del último commit. Actualmente hay:
 
 - **0** Proyectos Ionic disponibles.
-- **3** Proyectos Android disponibles.
+- **2** Proyectos Android disponibles.
 
 Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar el orden de lista.
 
 * Alvarado Díaz, Irene - ionic
 * Buendía López, Jairo - Android
 * De Abrisqueta Rangel, Ander - [HarenaProjectApp](https://github.com/AnderDeAbrisqueta/HarenaProjectApp) - Ionic
+* Estada Cobo, Jose Manuel - [Newsuty](https://github.com/JoseEstradaC/Newsuty-Proyecto) - Android
 * Millón Cortés, Manuel Alejandro- [SCA] - Ionic
 * Gutierrez Ramirez, Jesús - [GymFit](https://github.com/Jesus-GR/AplicacionIonic)- Ionic
 * López Lozano, Santos - Android
