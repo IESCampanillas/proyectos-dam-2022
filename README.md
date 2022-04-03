@@ -25,6 +25,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Gutierrez Ramirez, Jesús - [GymAndEat](https://github.com/Jesus-GR/GymAndEat)- Ionic
 * López Lozano, Santos - Android
 * López Pérez, Cruz - [ClinicaNiloFinalApp](https://github.com/mcruzlp/ClinicaNiloFinalApp.git) - Ionic
+* Millán Rebollo, Noel - [Femore](https://github.com/NoelMillan/femore-proyecto) - Ionic
 * Rodríguez Barbero Verdera, David - [Matters](https://github.com/Davidrbv/Matters) - Ionic
 * Rosales Girón, José Antonio - [MyEntertainmentList](https://github.com/joseantoniorosales/MyEntertainmentList) - Android
 * Sevilla Valderrama Fernando - [Invisible Friend](https://github.com/FESEVA/invisibleFriend-project) - Ionic && Android
