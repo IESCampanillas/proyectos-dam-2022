@@ -17,7 +17,7 @@ Cada alumno debe añadir su **apellido** y **nombre** por **orden alfabético** 
 
 Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar el orden de lista.
 
-* Alvarado Díaz, Irene - ionic
+* Alvarado Díaz, Irene - [CuidaAMiMascota](https://github.com/IreneAlvaradoDiaz/Proyecto-Final---Cuida-a-mi-mascota.git) -ionic
 * Buendía López, Jairo - Android
 * De Abrisqueta Rangel, Ander - [HarenaProjectApp](https://github.com/AnderDeAbrisqueta/HarenaProjectApp) - Ionic
 * Estada Cobo, Jose Manuel - [Newsuty](https://github.com/JoseEstradaC/Newsuty-Proyecto) - Android
