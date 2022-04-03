@@ -30,7 +30,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Sevilla Valderrama Fernando - [Invisible Friend](https://github.com/FESEVA/invisibleFriend-project) - Ionic && Android
 * Torres Barba, Pedro - [Bravekey](https://github.com/torrespedrob/BraveKey-Android) - Android
 * Fabián El Belaizi, Daniel - [Task Manager](https://github.com/Danny-06/proyecto-integrado) - Ionic
-* Salmerón Robles, Gonzalo José - Android
+* Salmerón Robles, Gonzalo José - [Yummy!](https://github.com/gonzalosalmeron/yummy) - Android
 ----------------------------------
 Convocatoria extraordinaria:
 * González Mora, Miguel - [OptiManager 2.0](https://github.com/Miguelgm1693/Proyecto-OptiManager-2.0) (Ionic)
