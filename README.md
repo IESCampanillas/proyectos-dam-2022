@@ -22,7 +22,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * De Abrisqueta Rangel, Ander - [HarenaProjectApp](https://github.com/AnderDeAbrisqueta/HarenaProjectApp) - Ionic
 * Estada Cobo, Jose Manuel - [Newsuty](https://github.com/JoseEstradaC/Newsuty-Proyecto) - Android
 * Millón Cortés, Manuel Alejandro- [SCA] - Ionic
-* Gutierrez Ramirez, Jesús - [GymFit](https://github.com/Jesus-GR/AplicacionIonic)- Ionic
+* Gutierrez Ramirez, Jesús - [GymAndEat](https://github.com/Jesus-GR/GymAndEat)- Ionic
 * López Lozano, Santos - Android
 * López Pérez, Cruz - [ClinicaNiloFinalApp](https://github.com/mcruzlp/ClinicaNiloFinalApp.git) - Ionic
 * Rodríguez Barbero Verdera, David - [Matters](https://github.com/Davidrbv/Matters) - Ionic
