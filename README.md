@@ -21,21 +21,23 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Buendía López, Jairo - [Task4Home](https://github.com/jairobuendia/ProyectoFinalTask4Home) - Android
 * De Abrisqueta Rangel, Ander - [HarenaProjectApp](https://github.com/AnderDeAbrisqueta/HarenaProjectApp) - Ionic
 * Estada Cobo, Jose Manuel - [Newsuty](https://github.com/JoseEstradaC/Newsuty-Proyecto) - Android
-* Millón Cortés, Manuel Alejandro- [SCA] - Ionic
 * Gutierrez Ramirez, Jesús - [GymAndEat](https://github.com/Jesus-GR/GymAndEat)- Ionic
-* López Lozano, Santos - Android
 * López Pérez, Cruz - [ClinicaNiloFinalApp](https://github.com/mcruzlp/ClinicaNiloFinalApp.git) - Ionic
 * Millán Rebollo, Noel - [Femore](https://github.com/NoelMillan/femore-proyecto) - Ionic
 * Rodríguez Barbero Verdera, David - [Matters](https://github.com/Davidrbv/Matters) - Ionic
 * Rosales Girón, José Antonio - [MyEntertainmentList](https://github.com/joseantoniorosales/MyEntertainmentList) - Android
 * Sevilla Valderrama Fernando - [Invisible Friend](https://github.com/FESEVA/invisibleFriend-project) - Ionic && Android
 * Torres Barba, Pedro - [Bravekey](https://github.com/torrespedrob/BraveKey-Android) - Android
-* Fabián El Belaizi, Daniel - [Task Manager](https://github.com/Danny-06/proyecto-integrado) - Ionic
 * Salmerón Robles, Gonzalo José - [Yummy!](https://github.com/gonzalosalmeron/yummy) - Android
 ----------------------------------
 Convocatoria extraordinaria:
 * González Mora, Miguel - [OptiManager 2.0](https://github.com/Miguelgm1693/Proyecto-OptiManager-2.0) (Ionic)
 * Zollner Zardi, Henrique - [Genie](https://github.com/henrique2Zs/Genie) (Ionic)
+----------------------------------
+* Millón Cortés, Manuel Alejandro- [SCA] - Ionic
+* López Lozano, Santos - Android
+* Fabián El Belaizi, Daniel - [Task Manager](https://github.com/Danny-06/proyecto-integrado) - Ionic
+
 
 ## 🗓️ Fechas a tener en cuenta
 * Anteproyecto: lunes 4 de abril
