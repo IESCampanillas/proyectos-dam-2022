@@ -79,7 +79,7 @@ La duración de cada exposición será de 10 minutos (5 de exposición y 5 de pr
 * 10:15h [Morales Aragón, Marcos]()
 * 10:30h [Sevilla Valderrama, Fernando Iván]()
 
-<img height="32px" src="safamotor-woBG.png">
+<img height="32px" src="safamotor.jpeg">
 
 * 10:45h [Rodríguez-Barbero Verdera, David]()
 
