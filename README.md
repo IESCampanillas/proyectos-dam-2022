@@ -62,7 +62,7 @@ La duración de cada exposición será de 10 minutos (5 de exposición y 5 de pr
 
 * 09:15h [Millán Rebollo, Noel]()
 
-<img height="32px" src="mayoral-woBG.png">
+<img height="52px" src="mayoral-woBG.png">
 
 * 09:30h [De Abrisqueta Rangel, Ander]()
 
@@ -70,7 +70,7 @@ La duración de cada exposición será de 10 minutos (5 de exposición y 5 de pr
 
 * 09:45h [Salmerón Robles, Gonzalo José]()
 
-<img height="32px" src="Viewnext-woBG.png">
+<img height="30px" src="Viewnext-woBG.png">
 
 * 10:00h [Estrada Cobo, José Manuel]()
 
@@ -79,7 +79,7 @@ La duración de cada exposición será de 10 minutos (5 de exposición y 5 de pr
 * 10:15h [Morales Aragón, Marcos]()
 * 10:30h [Sevilla Valderrama, Fernando Iván]()
 
-<img height="32px" src="safamotor.jpeg">
+<img height="52px" src="safamotor.jpeg">
 
 * 10:45h [Rodríguez-Barbero Verdera, David]()
 
