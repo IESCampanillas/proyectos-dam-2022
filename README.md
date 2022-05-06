@@ -56,27 +56,36 @@ La duración de cada exposición será de 10 minutos (5 de exposición y 5 de pr
 * 08:15h [Gutiérrez Ramírez, Jesús María]()
 * 08:30h [López Pérez, María de la Cruz]()
 * 08:45h [Buendía López, Jairo]()
+* 09:00h [Torres Barba, Pedro]()
 
 <img height="32px" src="securekids.jpg">
 
-* 09:00h [Millán Rebollo, Noel]()
+* 09:15h [Millán Rebollo, Noel]()
 
 <img height="32px" src="mayoral-woBG.png">
 
-* 09:15h [De Abrisqueta Rangel, Ander]()
+* 09:30h [De Abrisqueta Rangel, Ander]()
 
 <img height="32px" src="Rocketfy-woBG.png">
 
-* 09:30h [Salmerón Robles, Gonzalo José]()
+* 09:45h [Salmerón Robles, Gonzalo José]()
 
 <img height="32px" src="Viewnext-woBG.png">
 
-* 09:45h [Estrada Cobo, José Manuel]()
+* 10:00h [Estrada Cobo, José Manuel]()
 
 <img height="32px" src="dekra-woBG.png">
 
-* 10:00h [Morales Aragón, Marcos]()
-* 10:15h [Sevilla Valderrama, Fernando Iván]()
+* 10:15h [Morales Aragón, Marcos]()
+* 10:30h [Sevilla Valderrama, Fernando Iván]()
+
+<img height="32px" src="safamotor-woBG.png">
+
+* 10:45h [Rodríguez-Barbero Verdera, David]()
+
+<img height="32px" src="TraffGen Global-woBG.png">
+
+* 11:00h [Alvarado Díaz, Irene]()
 
 <hr>
 
@@ -86,7 +95,7 @@ La duración de cada exposición será de 10 minutos (5 de exposición y 5 de pr
 
 ##### 2ºDAM
 
-* 12:00h [Apellidos, Nombre]()
+
 * 12:10h [Apellidos, Nombre]()
 
 ##### 2ºDAW
@@ -210,7 +219,7 @@ La duración de cada exposición será de 10 minutos (5 de exposición y 5 de pr
 
 ### :calendar: día, XX de junio de 2022
 
-<img height="32px" src="TraffGen Global-woBG.png">
+
 
 ##### 2ºDAM
 
