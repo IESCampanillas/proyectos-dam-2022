@@ -51,14 +51,14 @@ La duración de cada exposición será de 10 minutos (5 de exposición y 5 de pr
 
 ### :calendar: jueves 23 de junio de 2022
 
-<img height="32px" src="accenture>-woBG.png">
+<img height="52px" src="accenture>-woBG.png">
 
 * 08:15h [Gutiérrez Ramírez, Jesús María]()
 * 08:30h [López Pérez, María de la Cruz]()
 * 08:45h [Buendía López, Jairo]()
 * 09:00h [Torres Barba, Pedro]()
 
-<img height="32px" src="securekids.jpg">
+<img height="42px" src="securekids.jpg">
 
 * 09:15h [Millán Rebollo, Noel]()
 
