@@ -53,8 +53,6 @@ La duración de cada exposición será de 10 minutos (5 de exposición y 5 de pr
 
 <img height="32px" src="accenture>-woBG.png">
 
-##### 2ºDAM
-
 * 08:15h [Gutiérrez Ramírez, Jesús María]()
 * 08:30h [López Pérez, María de la Cruz]()
 * 08:45h [Buendía López, Jairo]()
@@ -71,9 +69,6 @@ La duración de cada exposición será de 10 minutos (5 de exposición y 5 de pr
 
 * 09:30h [Salmerón Robles, Gonzalo José]()
 
-
-
-##### 2ºDAW
 
 * 09:00h [Apellidos, Nombre]()
 * 08:15h [Apellidos, Nombre]()
