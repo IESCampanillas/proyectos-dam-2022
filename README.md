@@ -69,9 +69,15 @@ La duración de cada exposición será de 10 minutos (5 de exposición y 5 de pr
 
 * 09:30h [Salmerón Robles, Gonzalo José]()
 
+<img height="32px" src="Viewnext-woBG.png">
 
-* 09:00h [Apellidos, Nombre]()
-* 08:15h [Apellidos, Nombre]()
+* 09:00h [Estrada Cobo, José Manuel]()
+
+<img height="32px" src="dekra-woBG.png">
+
+* 08:15h [Morales Aragón, Marcos]()
+
+
 * 08:45h [Apellidos, Nombre]()
 * 12:20h [Apellidos, Nombre]()
 * 12:30h [Apellidos, Nombre]()
