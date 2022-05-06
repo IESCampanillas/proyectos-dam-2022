@@ -43,11 +43,204 @@ Convocatoria extraordinaria:
 ## 🗓️ Fechas a tener en cuenta
 * Anteproyecto: lunes 4 de abril
 * Revisión (checkpoint): viernes 13 de mayo
-* Exposiciones: martes 21 de junio de 2021
+* Exposiciones: jueves 23 y viernes 24 de junio de 2022
 
 ## ⏰ Cuadrante horario de las exposiciones
 
 La duración de cada exposición será de 10 minutos (5 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Se deberá llegar unos 5 minutos antes del inicio de la presentación. Aquellos alumnos que aún no hayan finalizado su FCT, asistirán al centro únicamente para la exposición, debiendo regresar posteriormente a sus prácticas en la empresa.
+
+### :calendar: día, XX de junio de 2022
+
+<img height="32px" src="accenture>-woBG.png">
+
+##### 2ºDAM
+
+* 12:00h [Apellidos, Nombre]()
+* 12:10h [Apellidos, Nombre]()
+
+##### 2ºDAW
+
+* 12:20h [Apellidos, Nombre]()
+* 12:30h [Apellidos, Nombre]()
+
+<hr>
+
+### :calendar: día, XX de junio de 2022
+
+<img height="32px" src="NTTData-woBG.png">
+
+##### 2ºDAM
+
+* 12:00h [Apellidos, Nombre]()
+* 12:10h [Apellidos, Nombre]()
+
+##### 2ºDAW
+
+* 12:20h [Apellidos, Nombre]()
+* 12:30h [Apellidos, Nombre]()
+
+<hr>
+
+### :calendar: día, XX de junio de 2022
+
+<img height="32px" src="airzone-woBG.png">
+
+##### 2ºDAM
+
+* 12:00h [Apellidos, Nombre]()
+* 12:10h [Apellidos, Nombre]()
+
+##### 2ºDAW
+
+* 12:20h [Apellidos, Nombre]()
+* 12:30h [Apellidos, Nombre]()
+
+<hr>
+
+### :calendar: día, XX de junio de 2022
+
+<img height="32px" src="dekra-woBG.png">
+
+##### 2ºDAM
+
+* 12:00h [Apellidos, Nombre]()
+* 12:10h [Apellidos, Nombre]()
+
+##### 2ºDAW
+
+* 12:20h [Apellidos, Nombre]()
+* 12:30h [Apellidos, Nombre]()
+
+<hr>
+
+### :calendar: día, XX de junio de 2022
+
+<img height="32px" src="freepik-woBG.png">
+
+##### 2ºDAM
+
+* 12:00h [Apellidos, Nombre]()
+* 12:10h [Apellidos, Nombre]()
+
+##### 2ºDAW
+
+* 12:20h [Apellidos, Nombre]()
+* 12:30h [Apellidos, Nombre]()
+
+<hr>
+
+### :calendar: día, XX de junio de 2022
+
+<img height="32px" src="Future Connections-woBG.png">
+
+##### 2ºDAM
+
+* 12:00h [Apellidos, Nombre]()
+* 12:10h [Apellidos, Nombre]()
+
+##### 2ºDAW
+
+* 12:20h [Apellidos, Nombre]()
+* 12:30h [Apellidos, Nombre]()
+
+<hr>
+
+### :calendar: día, XX de junio de 2022
+
+<img height="32px" src="mayoral-woBG.png">
+
+##### 2ºDAM
+
+* 12:00h [Apellidos, Nombre]()
+* 12:10h [Apellidos, Nombre]()
+
+##### 2ºDAW
+
+* 12:20h [Apellidos, Nombre]()
+* 12:30h [Apellidos, Nombre]()
+
+<hr>
+
+### :calendar: día, XX de junio de 2022
+
+<img height="32px" src="Rocketfy-woBG.png">
+
+##### 2ºDAM
+
+* 12:00h [Apellidos, Nombre]()
+* 12:10h [Apellidos, Nombre]()
+
+##### 2ºDAW
+
+* 12:20h [Apellidos, Nombre]()
+* 12:30h [Apellidos, Nombre]()
+
+<hr>
+
+### :calendar: día, XX de junio de 2022
+
+<img height="32px" src="summa-woBG.png">
+
+##### 2ºDAM
+
+* 12:00h [Apellidos, Nombre]()
+* 12:10h [Apellidos, Nombre]()
+
+##### 2ºDAW
+
+* 12:20h [Apellidos, Nombre]()
+* 12:30h [Apellidos, Nombre]()
+
+<hr>
+
+### :calendar: día, XX de junio de 2022
+
+<img height="32px" src="TraffGen Global-woBG.png">
+
+##### 2ºDAM
+
+* 12:00h [Apellidos, Nombre]()
+* 12:10h [Apellidos, Nombre]()
+
+##### 2ºDAW
+
+* 12:20h [Apellidos, Nombre]()
+* 12:30h [Apellidos, Nombre]()
+
+<hr>
+
+### :calendar: día, XX de junio de 2022
+
+<img height="32px" src="Verisk Analytics-woBG.png">
+
+##### 2ºDAM
+
+* 12:00h [Apellidos, Nombre]()
+* 12:10h [Apellidos, Nombre]()
+
+##### 2ºDAW
+
+* 12:20h [Apellidos, Nombre]()
+* 12:30h [Apellidos, Nombre]()
+
+<hr>
+
+### :calendar: día, XX de junio de 2022
+
+<img height="32px" src="Viewnext-woBG.png">
+
+##### 2ºDAM
+
+* 12:00h [Apellidos, Nombre]()
+* 12:10h [Apellidos, Nombre]()
+
+##### 2ºDAW
+
+* 12:20h [Apellidos, Nombre]()
+* 12:30h [Apellidos, Nombre]()
+
+<hr>
+
 
 * 09:00h Apellidos, Nombre
 * 09:15h 
