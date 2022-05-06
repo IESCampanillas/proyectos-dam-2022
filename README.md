@@ -63,6 +63,16 @@ La duración de cada exposición será de 10 minutos (5 de exposición y 5 de pr
 
 * 09:00h [Millán Rebollo, Noel]()
 
+<img height="32px" src="mayoral-woBG.png">
+
+* 09:15h [De Abrisqueta Rangel, Ander]()
+
+<img height="32px" src="Rocketfy-woBG.png">
+
+* 09:30h [Salmerón Robles, Gonzalo José]()
+
+
+
 ##### 2ºDAW
 
 * 09:00h [Apellidos, Nombre]()
