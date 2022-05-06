@@ -49,17 +49,22 @@ Convocatoria extraordinaria:
 
 La duración de cada exposición será de 10 minutos (5 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. Se deberá llegar unos 5 minutos antes del inicio de la presentación. Aquellos alumnos que aún no hayan finalizado su FCT, asistirán al centro únicamente para la exposición, debiendo regresar posteriormente a sus prácticas en la empresa.
 
-### :calendar: día, XX de junio de 2022
+### :calendar: jueves 23 de junio de 2022
 
 <img height="32px" src="accenture>-woBG.png">
 
 ##### 2ºDAM
 
-* 12:00h [Apellidos, Nombre]()
-* 12:10h [Apellidos, Nombre]()
+* 08:15h [Gutiérrez Ramírez, Jesús María]()
+* 08:30h [López Pérez, María de la Cruz]()
+* 08:45h [Buendía López, Jairo]()
+
 
 ##### 2ºDAW
 
+* 09:00h [Apellidos, Nombre]()
+* 08:15h [Apellidos, Nombre]()
+* 08:45h [Apellidos, Nombre]()
 * 12:20h [Apellidos, Nombre]()
 * 12:30h [Apellidos, Nombre]()
 
