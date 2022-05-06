@@ -59,7 +59,7 @@ La duración de cada exposición será de 10 minutos (5 de exposición y 5 de pr
 * 08:30h [López Pérez, María de la Cruz]()
 * 08:45h [Buendía López, Jairo]()
 
-<img height="32px" src="NTTData-woBG.png">
+<img height="32px" src="sekurekids.jpg">
 
 * 09:00h [Millán Rebollo, Noel]()
 
