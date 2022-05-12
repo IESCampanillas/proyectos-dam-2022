@@ -95,8 +95,6 @@ La duración de cada exposición será de 10 minutos (5 de exposición y 5 de pr
 
 * 12:00h [Alvarado Díaz, Irene]()
 
-<hr>
-
 * 12:15h [Millón Cortes, Manuel Alejandro]()
 
 ## :school: Lugar de las exposiciones
