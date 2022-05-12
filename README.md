@@ -89,6 +89,13 @@ La duración de cada exposición será de 10 minutos (5 de exposición y 5 de pr
 
 <hr>
 
+* 11:45h [González Mora, Miguel]()
+
+<hr>
+
+* 11:55h [Zollner Zardi, Henrique]()
+
+
 ## :school: Lugar de las exposiciones
 
 Las presentaciones tendrán lugar en el **salón de actos** de la [**Incubadora**](https://goo.gl/maps/VGMpWnnpCZJQbP21A) sito en C/ Frederik Termann, 3. 29590, PTA.
