@@ -65,35 +65,38 @@ La duración de cada exposición será de 10 minutos (5 de exposición y 5 de pr
 <img height="52px" src="mayoral-woBG.png">
 
 * 09:30h [De Abrisqueta Rangel, Ander]()
+* 09:45h [González Mora, Miguel]()
+* 10:00h [Zollner Zardi, Henrique]()
 
 <img height="32px" src="Rocketfy-woBG.png">
 
-* 09:45h [Salmerón Robles, Gonzalo José]()
+* 10:15h [Salmerón Robles, Gonzalo José]()
 
 <img height="30px" src="Viewnext-woBG.png">
 
-* 10:00h [Estrada Cobo, José Manuel]()
+* 10:30h [Estrada Cobo, José Manuel]()
 
 <img height="32px" src="dekra-woBG.png">
 
-* 10:15h [Morales Aragón, Marcos]()
-* 10:30h [Sevilla Valderrama, Fernando Iván]()
+* 10:45h [Morales Aragón, Marcos]()
+* 11:00h [Sevilla Valderrama, Fernando Iván]()
+
+<hr>
+
+DESCANSO
+
+<hr>
 
 <img height="62px" src="safamotor.jpeg">
 
-* 10:45h [Rodríguez-Barbero Verdera, David]()
+* 11:45h [Rodríguez-Barbero Verdera, David]()
 
 <img height="32px" src="TraffGen Global-woBG.png">
 
-* 11:00h [Alvarado Díaz, Irene]()
+* 12:00h [Alvarado Díaz, Irene]()
 
 <hr>
 
-* 11:45h [González Mora, Miguel]()
-
-<hr>
-
-* 11:55h [Zollner Zardi, Henrique]()
 
 
 ## :school: Lugar de las exposiciones
