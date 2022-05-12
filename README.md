@@ -83,7 +83,7 @@ La duración de cada exposición será de 10 minutos (5 de exposición y 5 de pr
 
 <hr>
 
-DESCANSO
+ 🥪 D E S C A N S O ☕
 
 <hr>
 
