@@ -24,7 +24,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Gutierrez Ramirez, Jesús - [GymAndEat](https://github.com/Jesus-GR/AppIonicGymAndEat)- Ionic
 * López Pérez, Cruz - [ClinicaNiloFinalApp](https://github.com/mcruzlp/ClinicaNiloFinalApp.git) - Ionic
 * Millán Rebollo, Noel - [Femore](https://github.com/NoelMillan/femore-proyecto) - Ionic && Android
-* Morales Aragón, Marcos - [DreamTeam](https://github.com/MarcosMoralesAragon/dreamTeam) - Android
+* Morales Aragón, Marcos - [DreamTeam](https://github.com/MarcosMoralesAragon/dreamTeam) - Ionic
 * Rodríguez Barbero Verdera, David - [Matters](https://github.com/Davidrbv/Matters) - Ionic
 * Rosales Girón, José Antonio - [MyEntertainmentList](https://github.com/joseantoniorosales/MyEntertainmentList) - Android
 * Sevilla Valderrama Fernando - [Invisible Friend](https://github.com/FESEVA/invisibleFriend-project) - Ionic && Android
@@ -35,7 +35,7 @@ Convocatoria extraordinaria:
 * González Mora, Miguel - [OptiManager 2.0](https://github.com/Miguelgm1693/Proyecto-OptiManager-2.0) (Ionic)
 * Zollner Zardi, Henrique - [Genie](https://github.com/henrique2Zs/Genie) (Ionic)
 ----------------------------------
-* Millón Cortés, Manuel Alejandro- [SCA] - Ionic
+* Millón Cortés, Manuel Alejandro- [SCA] - Android
 * López Lozano, Santos - Android
 * Fabián El Belaizi, Daniel - [Task Manager](https://github.com/Danny-06/proyecto-integrado) - Ionic
 
