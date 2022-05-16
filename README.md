@@ -34,10 +34,6 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 Convocatoria extraordinaria:
 * González Mora, Miguel - [OptiManager 2.0](https://github.com/Miguelgm1693/Proyecto-OptiManager-2.0) (Ionic)
 * Zollner Zardi, Henrique - [Genie](https://github.com/henrique2Zs/Genie) (Ionic)
-----------------------------------
-* Millón Cortés, Manuel Alejandro- [SCA] - Android
-* López Lozano, Santos - Android
-* Fabián El Belaizi, Daniel - [Task Manager](https://github.com/Danny-06/proyecto-integrado) - Ionic
 
 
 ## 🗓️ Fechas a tener en cuenta
@@ -95,7 +91,6 @@ La duración de cada exposición será de 10 minutos (5 de exposición y 5 de pr
 
 * 12:00h [Alvarado Díaz, Irene]()
 
-* 12:15h [Millón Cortes, Manuel Alejandro]()
 
 ## :school: Lugar de las exposiciones
 
