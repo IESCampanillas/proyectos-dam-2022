@@ -39,6 +39,7 @@ Convocatoria extraordinaria:
 ## 🗓️ Fechas a tener en cuenta
 * Anteproyecto: lunes 4 de abril
 * Revisión (checkpoint): viernes 13 de mayo
+* Fecha de entrega: viernes 17 de junio
 * Exposiciones: jueves 23 de junio de 2022
 
 ## ⏰ Cuadrante horario de las exposiciones
