@@ -19,7 +19,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 
 * Alvarado Díaz, Irene - [CuidaAMiMascota](https://github.com/IreneAlvaradoDiaz/cuida-a-mi-mascota.git) -ionic
 * Buendía López, Jairo - [Task4Home](https://github.com/jairobuendia/ProyectoFinalTask4Home) - Android
-* De Abrisqueta Rangel, Ander - [HarenaProjectApp](https://github.com/AnderDeAbrisqueta/HarenaProjectApp) - Ionic - [angularHarenaProject] (https://github.com/AnderDeAbrisqueta/angularHarenaProject) - Angular
+* De Abrisqueta Rangel, Ander - [HarenaProjectApp](https://github.com/AnderDeAbrisqueta/HarenaProjectApp) - Ionic 
 * Estada Cobo, Jose Manuel - [Newsuty](https://github.com/JoseEstradaC/Newsuty-Proyecto) - Android
 * Gutierrez Ramirez, Jesús - [GymAndEat](https://github.com/Jesus-GR/AppIonicGymAndEat)- Ionic
 * López Pérez, Cruz - [ClinicaNiloFinalApp](https://github.com/mcruzlp/ClinicaNiloFinalApp.git) - Ionic
