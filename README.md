@@ -21,7 +21,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Buendía López, Jairo - [Task4Home](https://github.com/jairobuendia/ProyectoFinalTask4Home) - Android
 * De Abrisqueta Rangel, Ander - [HarenaProjectApp](https://github.com/AnderDeAbrisqueta/HarenaProjectApp) - Ionic 
 * Estada Cobo, Jose Manuel - [Newsuty](https://github.com/JoseEstradaC/Newsuty-Proyecto) - Android
-* Gutierrez Ramirez, Jesús - [GymAndEat](https://github.com/Jesus-GR/ProyectoIntegradoDam2022))- Ionic
+* Gutierrez Ramirez, Jesús - [GymAndEat](https://github.com/Jesus-GR/ProyectoIntegradoDam2022)- Ionic
 * López Pérez, Cruz - [ClinicaNiloFinalApp](https://github.com/mcruzlp/ClinicaNiloFinalApp.git) - Ionic
 * Millán Rebollo, Noel - [Femore](https://github.com/NoelMillan/femore) - Ionic && Android
 * Morales Aragón, Marcos - [DreamTeam](https://github.com/MarcosMoralesAragon/dreamTeam) - Ionic
