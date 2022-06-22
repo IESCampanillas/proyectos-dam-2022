@@ -23,7 +23,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Estada Cobo, Jose Manuel - [Newsuty](https://github.com/JoseEstradaC/Newsuty-Proyecto) - Android
 * Gutierrez Ramirez, Jesús - [GymAndEat](https://github.com/Jesus-GR/ProyectoIntegradoDam2022)- Ionic
 * López Pérez, Cruz - [ClinicaNiloFinalApp](https://github.com/mcruzlp/ClinicaNiloFinalApp.git) - Ionic
-* Millán Rebollo, Noel - [Femore](https://github.com/NoelMillan/femore) - Ionic
+* Millán Rebollo, Noel - [Femore](https://github.com/NoelMillan/femore) - Ionic && Android
 * Morales Aragón, Marcos - [DreamTeam](https://github.com/MarcosMoralesAragon/dreamTeam) - Ionic
 * Rodríguez Barbero Verdera, David - [Matters](https://github.com/Davidrbv/Matters) - Ionic
 * Rosales Girón, José Antonio - [MyEntertainmentList](https://github.com/joseantoniorosales/MyEntertainmentList) - Android
@@ -61,7 +61,7 @@ La duración de cada exposición será de 10 minutos (5 de exposición y 5 de pr
 
 <img height="52px" src="mayoral-woBG.png">
 
-* 09:30h [De Abrisqueta Rangel, Ander]()
+* 09:30h [De Abrisqueta Rangel, Ander](https://www.canva.com/design/DAFEXDTXM3s/13iywxghch0Ep7tQn4kLnQ/edit?utm_content=DAFEXDTXM3s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 * 09:45h [González Mora, Miguel]()
 * 10:00h [Zollner Zardi, Henrique]()
 
