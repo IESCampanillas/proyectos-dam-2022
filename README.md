@@ -23,7 +23,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Estada Cobo, Jose Manuel - [Newsuty](https://github.com/JoseEstradaC/Newsuty-Proyecto) - Android
 * Gutierrez Ramirez, Jesús - [GymAndEat](https://github.com/Jesus-GR/ProyectoIntegradoDam2022)- Ionic
 * López Pérez, Cruz - [ClinicaNiloFinalApp](https://github.com/mcruzlp/ClinicaNiloFinalApp.git) - Ionic
-* Millán Rebollo, Noel - [Femore](https://github.com/NoelMillan/femore) - Ionic && Android
+* Millán Rebollo, Noel - [Femore](https://github.com/NoelMillan/femore) - Ionic
 * Morales Aragón, Marcos - [DreamTeam](https://github.com/MarcosMoralesAragon/dreamTeam) - Ionic
 * Rodríguez Barbero Verdera, David - [Matters](https://github.com/Davidrbv/Matters) - Ionic
 * Rosales Girón, José Antonio - [MyEntertainmentList](https://github.com/joseantoniorosales/MyEntertainmentList) - Android
