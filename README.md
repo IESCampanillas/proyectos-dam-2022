@@ -67,7 +67,7 @@ La duración de cada exposición será de 10 minutos (5 de exposición y 5 de pr
 
 <img height="32px" src="Rocketfy-woBG.png">
 
-* 10:15h [Salmerón Robles, Gonzalo José]()
+* 10:15h [Salmerón Robles, Gonzalo José](https://github.com/gonzalosalmeron/yummy/blob/main/media/Yummy.pdf)
 
 <img height="30px" src="Viewnext-woBG.png">
 
