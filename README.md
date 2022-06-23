@@ -75,7 +75,7 @@ La duración de cada exposición será de 10 minutos (5 de exposición y 5 de pr
 
 <img height="32px" src="dekra-woBG.png">
 
-* 10:45h [Morales Aragón, Marcos]()
+* 10:45h [Morales Aragón, Marcos](https://github.com/MarcosMoralesAragon/)
 * 11:00h [Sevilla Valderrama, Fernando Iván]()
 
 <hr>
