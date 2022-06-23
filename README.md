@@ -52,7 +52,7 @@ La duración de cada exposición será de 10 minutos (5 de exposición y 5 de pr
 
 * 08:15h [Gutiérrez Ramírez, Jesús María]()
 * 08:30h [López Pérez, María de la Cruz]()
-* 08:45h [Buendía López, Jairo]()
+* 08:45h [Buendía López, Jairo](https://github.com/jairobuendia/ProyectoFinalTask4Home/blob/main/Task4HomePresentacion.pdf)
 * 09:00h [Torres Barba, Pedro]()
 
 <img height="42px" src="securekids.jpg">
