@@ -61,7 +61,7 @@ La duración de cada exposición será de 10 minutos (5 de exposición y 5 de pr
 
 <img height="52px" src="mayoral-woBG.png">
 
-* 09:30h [De Abrisqueta Rangel, Ander](https://www.canva.com/design/DAFEXDTXM3s/13iywxghch0Ep7tQn4kLnQ/edit?utm_content=DAFEXDTXM3s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* 09:30h [De Abrisqueta Rangel, Ander](https://github.com/AnderDeAbrisqueta/HarenaProjectApp/blob/master/README.md)
 * 09:45h [González Mora, Miguel]()
 * 10:00h [Zollner Zardi, Henrique]()
 
