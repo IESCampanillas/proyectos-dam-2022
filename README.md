@@ -2,11 +2,18 @@
 
 En este repositorio se encuentra centralizada toda la información relativa a los **Proyectos de Desarrollo de Aplicaciones Multiplataforma del IES Campanillas** (proyectos de fin de ciclo), en la convocatoria del año 2022.
 
+## Índice
+
+* [Requisitos y criterios](#requisitos-y-criterios-a-seguir)
+* [Relación de proyectos](#relación-de-proyectos)
+* [Calendario período ordinario](#calendario-período-ordinario)
+* [Calendario período extraordinario](#calendario-período-extraordinario)
+
 ## Requisitos y criterios a seguir
 
 Tanto los criterios generales como los criterios particulares por cada módulo se encuentran en [la Wiki de este repositorio](https://github.com/IESCampanillas/proyectos-dam-2022/wiki).
 
-## Índice a los proyectos de cada alumno
+## Relación de proyectos
 
 A continuación se listan los enlaces a los repositorios de GitHub donde están los proyectos. 
 
@@ -35,6 +42,10 @@ Convocatoria extraordinaria:
 * González Mora, Miguel - [OptiManager 2.0](https://github.com/Miguelgm1693/Proyecto-OptiManager-2.0) (Ionic)
 * Zollner Zardi, Henrique - [Genie](https://github.com/henrique2Zs/Genie) (Ionic)
 
+* Fabián el Belaizi, Daniel - \<nombre y enlace al proyecto\> (tecnología)
+* Rosales Girón, José Antonio - \<nombre y enlace al proyecto\> (tecnología)
+
+# Calendario período ordinario
 
 ## 🗓️ Fechas a tener en cuenta
 * Anteproyecto: lunes 4 de abril
@@ -91,6 +102,17 @@ La duración de cada exposición será de 10 minutos (5 de exposición y 5 de pr
 <img height="32px" src="TraffGen Global-woBG.png">
 
 * 12:00h [Alvarado Díaz, Irene]()
+
+# Calendario período extraordinario
+
+##  🗓️ Fechas a tener en cuenta 
+* Entrega de proyecto: **viernes 16 de diciembre de 2022**
+* Exposición de proyectos: **lunes 19 de diciembre de 2022**
+
+## ⏰ Cuadrante horario de las exposiciones
+La duración de cada exposición será de 10 minutos (5 de exposición y 5 de preguntas). Se ruega puntualidad en el inicio de la presentación. Aquellos alumnos que aún no hayan finalizado su FCT, asistirán al centro únicamente para la exposición, debiendo regresar posteriormente a sus prácticas en la empresa.
+* 10:45h [Fabián el Belaizi, Daniel]()
+* 11:00h [Rosales Girón, José Antonio]()
 
 
 ## :school: Lugar de las exposiciones
