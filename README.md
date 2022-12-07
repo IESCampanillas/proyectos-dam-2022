@@ -42,7 +42,7 @@ Convocatoria extraordinaria:
 * González Mora, Miguel - [OptiManager 2.0](https://github.com/Miguelgm1693/Proyecto-OptiManager-2.0) (Ionic)
 * Zollner Zardi, Henrique - [Genie](https://github.com/henrique2Zs/Genie) (Ionic)
 
-* Fabián el Belaizi, Daniel - \<nombre y enlace al proyecto\> (tecnología)
+* Fabián el Belaizi, Daniel - [Task Manager](https://github.com/Danny-06/proyecto-integrado) (Ionic)
 * Rosales Girón, José Antonio - \<nombre y enlace al proyecto\> (tecnología)
 
 # Calendario período ordinario
