@@ -43,7 +43,7 @@ Convocatoria extraordinaria:
 * Zollner Zardi, Henrique - [Genie](https://github.com/henrique2Zs/Genie) (Ionic)
 
 * Fabián el Belaizi, Daniel - [Task Manager](https://github.com/Danny-06/proyecto-integrado) (Ionic)
-* Rosales Girón, José Antonio - \<nombre y enlace al proyecto\> (tecnología)
+* Rosales Girón, José Antonio - [MyEntertainmentList](https://github.com/joseantoniorosales/MyEntertainmentList) (Android)
 
 # Calendario período ordinario
 
